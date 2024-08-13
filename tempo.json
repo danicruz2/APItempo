@@ -1,0 +1,44 @@
+{
+    "previsao": [
+      {
+        "cidade": "São Paulo",
+        "data": "2024-08-13",
+        "temperatura": {
+          "minima": 16,
+          "maxima": 25
+        },
+        "umidade": {
+          "minima": 60,
+          "maxima": 85
+        },
+        "condicao": "nublado"
+      },
+      {
+        "cidade": "Rio de Janeiro",
+        "data": "2024-08-13",
+        "temperatura": {
+          "minima": 22,
+          "maxima": 30
+        },
+        "umidade": {
+          "minima": 70,
+          "maxima": 90
+        },
+        "condicao": "chuva leve"
+      },
+      {
+        "cidade": "Belo Horizonte",
+        "data": "2024-08-13",
+        "temperatura": {
+          "minima": 18,
+          "maxima": 26
+        },
+        "umidade": {
+          "minima": 55,
+          "maxima": 80
+        },
+        "condicao": "parcialmente nublado"
+      }
+    ]
+  }
+  
